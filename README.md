@@ -1,2 +1,5 @@
-# ucu_oop_assignment_01
-UCU OOP Assignment 1
+# UCU OOP Assignment 1
+
+## Full names: Barbra Ebal Apilli
+## Access number: B35496
+## Registration number: S25M25/001
